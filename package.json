@@ -1,0 +1,26 @@
+{
+  "name": "MedusaJS",
+  "version": "0.0.0",
+  "description": "Command line tool for batching screenshots of different urls using the Crossbrowsertesting.com api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brycefisher/medusajs.git"
+  },
+  "keywords": [
+    "tool"
+  ],
+  "author": "Bryce Fisher-Fleig",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/brycefisher/medusajs/issues"
+  },
+  "homepage": "https://github.com/brycefisher/medusajs",
+  "dependencies": {
+    "commander": "^2.2.0",
+    "restler": "^3.2.2"
+  }
+}
